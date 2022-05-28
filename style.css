@@ -37,4 +37,23 @@
     .card-images {
         height: 22rem;
     }
+
+    .mountain {
+        width: 100%;
+        margin: 2rem 0;
+    }
+
+    .alone2 {
+        width: 100%;
+    }
+
+    .head-img {
+        height: 8rem;
+        width: 8rem !important;
+        margin: 1rem 0;
+    }
+
+    .clients {
+        margin: 1rem 0;
+    }
 }
