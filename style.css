@@ -15,3 +15,26 @@
 .client img {
     text-align: center !important;
 }
+
+.card-images {
+    height: 14.68rem;
+}
+
+
+@media screen and (max-width:992px) {}
+
+@media screen and (max-width:768px) {
+    .card-images {
+        height: 11rem;
+    }
+
+    .update-img {
+        margin-top: 30%;
+    }
+}
+
+@media screen and (max-width:575px) {
+    .card-images {
+        height: 22rem;
+    }
+}
